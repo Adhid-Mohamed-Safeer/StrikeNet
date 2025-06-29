@@ -3,7 +3,7 @@ StrikeNet is a versatile cyber offensive tool that integrates multiple functiona
 1. Keylogger: Captures keystrokes on a target system to monitor user activity or gather sensitive information.
 2. Packet Sniffer: Analyzes network traffic to intercept and examine data packets, helping identify vulnerabilities or monitor communications.
 3. Network Scanner: Discovers devices with their IP and MAC address, allowing the user to map the network structure.
-4. MAC Changer: Modifies the Media Access Control (MAC) address of a device to anonymize activities or bypass access controls
+4. MAC Changer: Modifies the Media Access Control (MAC) address of a device to anonymize activities or bypass access controls.
 
 # Key Features
 
